@@ -342,7 +342,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Brolab Team**
 
-- GitHub: [@HongThaiPham](https://github.com/APEC-education-ecosystem)
 - Project Link: [https://github.com/APEC-education-ecosystem/apec-certificate-web](https://github.com/APEC-education-ecosystem/apec-certificate-web)
 
 ## 🙏 Acknowledgments
