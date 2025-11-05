@@ -194,7 +194,7 @@ apec-learning/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/HongThaiPham/apec-learning.git
+git clone https://github.com/APEC-education-ecosystem/apec-certificate-web
 cd apec-learning
 ```
 
